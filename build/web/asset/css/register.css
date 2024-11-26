@@ -1,0 +1,78 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Mar 23, 2024, 9:27:16 PM
+    Author     : ADMIN
+*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 400px;
+    height: 590px;
+    margin: 2rem auto;
+    box-shadow: 0px 0px 20px 1px;
+    padding: 0px;
+    border-radius: 25px;
+}
+.title{
+    height: 5.5rem; 
+    background-color: #db2a34;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.title h2{
+    color: white;
+}
+.alert-danger{
+    padding: .5rem;
+    margin: 5px auto 0px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formRegister{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.formRegister .input{
+    width: 70%;
+    height: 4.5rem;
+}
+.formRegister .input p{
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.formRegister .input input{
+    width: 100%;
+    border: 1px solid rgba(0,0,0,0.3);
+    padding: .3rem;
+    border-radius: 5px;
+}
+.formRegister .btn{
+    width: 70%;
+    background-color: #db2a34;
+    border-radius: 50px;
+    color: white;
+}
+.formRegister p{
+    margin-top: 10px;
+}
+.formRegister p a{
+    color: #db2a34
+}
