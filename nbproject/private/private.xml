@@ -2,31 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/controllers/management/booking/confirmSuccess.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/web/admin/booking_management.jsp</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/web/bill.jsp</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/database/dao/room/RoomDao.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/database/DBO.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/web/pagination_table.jsp</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/controllers/management/room/removeRoom.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/web/admin/room_management.jsp</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/controllers/management/booking/declineBooking.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/controllers/registerController.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/web/prevent_access.jsp</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/web/home.jsp</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/web/header.jsp</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/web/pagination.jsp</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/controllers/management/booking/searchBooking.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/controllers/cancelBill.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/database/dao/DAO.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/controllers/management/booking/confirmBooking.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/database/dao/category/CategoryDao.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/conf/MANIFEST.MF</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/database/dao/DaoInterface.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/controllers/loginController.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/controllers/bookingController.java</file>
-            <file>file:/D:/Workspace/SourceCode/J2EE/NhaNghi/src/java/entity/Util.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
