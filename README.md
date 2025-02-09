@@ -2,11 +2,21 @@
 
 VanouS Motel là một ứng dụng web giúp hỗ trợ quản lý và đặt phòng nhà nghỉ. Hệ thống được phát triển bằng **J2EE JSP**, **MySQL**, **HTML**, **CSS**, và **JavaScript** trên nền **GlassFish Server 6.2.5** và **JDK 17**, cung cấp các chức năng thiết yếu cho cả người dùng và quản trị viên.
 
+---
+
+## 🎥 Demo  
+
+🔗 Xem video demo: [https://youtu.be/J_uk7eON5sM](https://youtu.be/J_uk7eON5sM)
+
+---
+
 ## 🛠️ Công nghệ sử dụng
 - **Backend:** J2EE (Java Servlet, JSP)
 - **Database:** MySQL
 - **Frontend:** HTML, CSS, JavaScript
 - **Máy chủ ứng dụng:** GlassFish Server 6.2.5
+
+---
 
 ## 🌟 Chức năng chính
 
@@ -33,6 +43,8 @@ VanouS Motel là một ứng dụng web giúp hỗ trợ quản lý và đặt p
    - Số lượng đơn đặt phòng đã xử lý.
    - Thống kê người dùng trên hệ thống.
 
+---
+
 ## 💻 Cài đặt và triển khai
 
 ### Yêu cầu hệ thống
@@ -52,10 +64,16 @@ VanouS Motel là một ứng dụng web giúp hỗ trợ quản lý và đặt p
     - Deploy file WAR trên GlassFish Server.
 5. Khởi động GlassFish Server.
 6. Truy cập website tại: http://localhost:8080/VanouS-Motel.
+
+---
+
 ## 🎯 Mục tiêu phát triển
 - **Nâng cao giao diện người dùng.**
 - **Tích hợp thanh toán online.**
 - **Xây dựng API RESTful để hỗ trợ ứng dụng di động.**
+
+---
+
 ## 📩 Liên hệ
 Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ qua email: pmss0168@gmail.com.
 Cảm ơn bạn đã quan tâm đến dự án của chúng tôi!
